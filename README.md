@@ -52,7 +52,7 @@ $ yarn hardhat verify --network eosevm "oldtimersrentbuy"
 
 ## Oldtimers Rent & Buy SC Details
 
-Oldtimers (Rent & Buy) SC is made up of experienced blockchain developers (team members) from the Oldtimers Offer platform. The SC is a Proof of Concept for Renting & Buying Classic Vehicles and belongs as a part of applying for the [ENF Grant](https://eosnetwork.com/blog/eos-network-foundation-grant-framework-guidelines/) program. Our hard work is open source and helps developers a lot to create similar SCs for the marketplace on the blockchain (EVM is compatible, but our approach is strict to EVM). It can be very easy to use for real estate, sea vessels, or book projects. Our approach is highly innovative in the blockchain industry and we are so proud of it. The solution is for renting, selling, and reviewing classic vehicles.
+Oldtimers (Rent & Buy) SC is made up of experienced blockchain developers (team members) from the Oldtimers Offer platform. The SC is a Proof of Concept for Renting & Buying Classic Vehicles. Our hard work is open source and helps developers a lot to create similar SCs for the marketplace on the blockchain (EVM is compatible, but our approach is strict to EVM). It can be very easy to use for real estate, sea vessels, or book projects. Our approach is highly innovative in the blockchain industry and we are so proud of it. The solution is for renting, selling, and reviewing classic vehicles.
 The SC has the following advantages and rules:
 
 -   **1. Easy to list a classic vehicle on blockchain:** Users can very simply add a vehicle to the blockchain. It is a free service.
@@ -75,7 +75,4 @@ The SC has the following advantages and rules:
 
 -   **6.b Advantage in Vehicle Buy function:** In our function, we covered the following rules: a. Only the owner of the vehicle can add or remove the vehicle from the buying list. That is a decentralized approach. b. When the user pays exactly or more for buying the vehicle, the money goes automatically to the previous vehicle owner (smart contract calculated the profit). c. We map who buys the vehicle, in that way the new owner has the option to add details and a rent/buy option. The previous owner is automatically removed for that privilege.
 
-### Business Architecture
-
-If you are confused because of the previous explanation, don't worry. We have prepared it for you [Business Architecture](https://miro.com/app/board/uXjVPq5__rU=/?share_link_id=994333599006). Enjoy! We are available for all questions at the email address office@oldtimersoffer.com
 
